@@ -21,3 +21,5 @@ Unfortunately I will not provide the images I have trained the model on, due to 
 If you want to run the GUI with the provided model, you just need to run the GorillaCatcher.ipynb, provided you have all the modules installed.
 
 For creating a new model with your own images, add your images in seperate folders in /data/. Add your test data seperated into classes in eval_test. Lastly, add mixed images in the test folder, to make sure no data leakage occurs.
+
+Project created during my time at Nod Bootcamp.
