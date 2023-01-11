@@ -18,7 +18,7 @@ This project is split into two different notebooks, one which creates the image 
 Unfortunately I will not provide the images I have trained the model on, due to the sheer size (30k+ images).
 
 
-If you want to run the GUI with the provided model, you just need to run the GorillaCatcher.ipynb, provided you have all the modules installed.
+If you want to run the GUI with the provided model, you just need to run the GorillaCatcher.ipynb, assuming you have all the modules installed.
 
 For creating a new model with your own images, add your images in seperate folders in /data/. Add your test data seperated into classes in eval_test. Lastly, add mixed images in the test folder, to make sure no data leakage occurs.
 
